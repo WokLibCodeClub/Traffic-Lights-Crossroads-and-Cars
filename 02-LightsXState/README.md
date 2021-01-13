@@ -28,7 +28,7 @@ e) You can test your code by clicking on each of the 5 code sections in turn. Yo
 
 ![display variable](LightsX08.png "LightsX08")
 
-<details><summary>Click here to see the complete code for the **Lights X** sprite</summary>
+<details><summary>Click here to see the complete code for the <b>Lights X</b> sprite</summary>
 
 ![Lights X code](LightsX07.png "LightsX07")
 
