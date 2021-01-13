@@ -21,12 +21,12 @@ a) Using the **Make a List** option in the **Variables** section to create a new
 
 b) You should see an empty list in the Stage area.  The list can be made wider by using the mouse to drag the bottom right corner of the list down and to the right.
 
-![narrow list](Sequences04.png "Sequences04")
+![narrow list](Sequences04.png "Sequences04")&nbsp;&nbsp;
 ![wide list](Sequences05.png "Sequences05")
 
 c) Add the name of the first broadcast message corresponding to red light on the Lights X sprite. (We created the broadcast messages on page 3.) To do this click on the little + in the bottom left of the list, then type the name of the first broadcast message into the box. 
 
-![empty list](Sequences06.png "Sequences06")
+![empty list](Sequences06.png "Sequences06")&nbsp;&nbsp;
 ![item added to list](Sequences07.png "Sequences07")
 
 d) Repeat the previous step to add the other 7 broadcast messages.   Your list should now look like the screen shot below:
