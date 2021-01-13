@@ -8,11 +8,11 @@ When you open the Starter project you’ll see the layout of a crossroads with t
 
 If you click the green flag you’ll see cars start ‘driving’ from left to right & from bottom to top. You might see some near misses!
 
-
+![road static](starter01.png "starter01")
 
 The task of this project is to add code to the traffic lights in order that the traffic is controlled. i.e. cars will queue when the lights are at red, will slow down when the lights are at amber and will only ‘go’ when the lights are at green, as illustrated in this screen capture.
 
-
+![controlled traffic](starter02.png "starter02")
 
 ## Contents of the Starter project
 
@@ -40,6 +40,8 @@ The starter project has some sprites with some pieces code already included:
 ### Costumes
 
 Each light sprite (Lights X and Lights Y) has 5 costumes. The name of each costume shown in this table:
+
+![traffic light costumes](starter03.png "starter03")
 
 ### ‘Lights X State’ and ‘Lights Y State’ global variables
 
