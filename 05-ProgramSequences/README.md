@@ -48,13 +48,20 @@ d) We need a way to reference the items in the lists.  We’ll do this using a v
 
 ![repeat block](Prog07.png "Prog07")
 
-e)	Also included in the Variables blocks is a block to obtain the data from a specific row of a List.   The following will obtain the **1st** item of the **Lights X - Broadcast messages** list, i.e “x lights-red”
- 
-and this will obtain the 6th item of the Lights - **Duration** list, i.e “2”
- 
-In place of actual numbers we need to use the count variable, so the above blocks will look like this
- 
- 
+e) Also included in the **Variables** blocks is a block to obtain the data from a specific row of a **List**. The following will obtain the **1st** item of the **Lights X - Broadcast messages** list, i.e “x lights-red”
+
+![item 1](Prog08.png "Prog08")
+
+and this block will obtain the **6th** item of the Lights - **Duration** list, i.e “2”
+
+![item 6](Prog09.png "Prog09")
+
+In place of actual numbers we need to use the **count** variable, so the above blocks will look like this
+
+![item count Lights X](Prog10.png "Prog10")
+
+![item count Duration](Prog11.png "Prog11")
+
 This will broadcast a message for the text contained in item count of the **Lights X - Broadcast messages** list
  
 and this will wait for the number of seconds contained in item count of the Lights - **Duration** list
