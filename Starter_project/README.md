@@ -29,10 +29,31 @@ The starter project has some sprites with some pieces code already included:
 
 ### Code
 
-* code on the Stage to initialise some variables and lists that are available to all sprites
-* code on the Car X and Car Y sprites that:
-o generates multiple cars of differing colours using clones
-o controls the speed of the cars based on:
- the current colour of the lights (off, red, red & amber, or green)
- the distance from the white ‘stop’ line in front of the lights, and
- the distance between the car itself and the car in front
+* code on the **Stage** to initialise some variables and lists that are available to all sprites
+* code on the **Car X** and **Car Y** sprites that:
+  * generates multiple cars of differing colours using clones
+  * controls the speed of the cars based on:
+    * the current colour of the lights (off, red, red & amber, or green)
+    * the distance from the white ‘stop’ line in front of the lights, and
+    * the distance between the car itself and the car in front
+
+### Costumes
+
+Each light sprite (Lights X and Lights Y) has 5 costumes. The name of each costume shown in this table:
+
+### ‘Lights X State’ and ‘Lights Y State’ global variables
+
+The code for the movement of the cars relies on the values of variables that are available for all sprites:
+
+* Lights X State variable showing the current state of the lights for the cars moving in the horizontal direction, and
+
+* Lights Y State variable showing the current state of the lights for the cars moving in the vertical direction.
+
+The possible values for the variables correspond to the names of the costumes. They are:
+* red
+* red&amber
+* green
+* amber
+* off
+
+The following steps show how to create the code needed to generate the correct settings for Lights X State and Lights Y State, which will in turn cause the traffic to be controlled.
