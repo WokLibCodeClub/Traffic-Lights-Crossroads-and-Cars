@@ -52,7 +52,8 @@ e) Also included in the **Variables** blocks is a block to obtain the data from 
 
 ![item 1](Prog08.png "Prog08")
 
-and this block will obtain the **6th** item of the Lights - **Duration** list, i.e “2”
+and this block will obtain the **6th** item of the **Lights - 
+Duration** list, i.e “2”
 
 ![item 6](Prog09.png "Prog09")
 
@@ -62,7 +63,7 @@ In place of actual numbers we need to use the **count** variable, so the above b
 
 ![item **count** Duration](Prog11.png "Prog11")
 
-This will **broadcast** a message for the text contained in item **count** of the **Lights X - Broadcast messages** list
+The block below will **broadcast** a message for the text contained in item **count** of the **Lights X - Broadcast messages** list
 
 ![broadcast item **count** Lights X](Prog12.png "Prog12")
 
@@ -96,5 +97,10 @@ b) Next, add the call to the **Run Sequence** block
 ![Start sprite code](Prog15.png "Prog15")
 
 </details>
-
 <br></br>
+
+## The program is complete – run the code
+
+a) Click the **Green flag** – the cars should flow freely in both directions
+
+b) Click the **Start Button** sprite – both sets of lights should turn ‘on’ and the cars should start responding to the lights.
