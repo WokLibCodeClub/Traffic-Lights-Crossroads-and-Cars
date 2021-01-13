@@ -6,7 +6,7 @@ In this SCRATCH project you will program a set of traffic lights that will contr
 
 You can find details of that project, including links to Youtube videos of the sessions, at this link:
 
-[Traffic Lights for Scratch](../../OnlineCodeclub/traffic_lights.md)
+[Traffic Lights for Scratch](../../../OnlineCodeclub/traffic_lights.md)
 
 
 If you would like to look at the videos for that project please see:
