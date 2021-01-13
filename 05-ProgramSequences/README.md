@@ -1,6 +1,6 @@
 # Program the Light Sequence
 
-We will create the code for making the lights run through their sequences on the **Start Button** sprite.   The light sprites change according to **broadcast** messages that they receive.  The messages to be sent are contained in ****Lights X - Broadcast messages**** and **Lights Y - Broadcast** messages lists that we created in the last section.   The ****Duration**** list contains the amount of time we want to wait between each message being broadcast. The basic steps are:
+We will create the code for making the lights run through their sequences on the **Start Button** sprite.   The light sprites change according to **broadcast** messages that they receive.  The messages to be sent are contained in **Lights X - Broadcast messages** and **Lights Y - Broadcast** messages lists that we created in the last section.   The **Duration** list contains the amount of time we want to wait between each message being broadcast. The basic steps are:
 
 1. Broadcast message from **1st** item in the **Lights X - Broadcast messages** list
 2. Broadcast message from **1st** item in the Lights Y- Broadcast messages list
@@ -17,19 +17,22 @@ We will create the code for making the lights run through their sequences on the
 
 ## Initialise the Start Button
 
-Using the Show block in the Looks section add the code to show the Start Button when the Green Flag is clicked
-Add a Block for the sequence code
-We’ll put all the code for running the sequence into a Block.  We will only call the Block once, so it isn’t entirely necessary, but it does clearly show what this part of the code is doing.
-a)	Create new Block called Run Sequence
+Using the **Show** block in the **Looks** section add the code to show the **Start Button** when the **Green Flag** is clicked.
+
+## Add a Block for the sequence code
+
+We’ll put all the code for running the sequence into a Block. We will only call the Block once, so it isn’t entirely necessary, but it does clearly show what this part of the code is doing.
+
+a) Create new Block called **Run Sequence**
  	 
 
  
  
-b)	We need to create loop that repeats for the number of items in one of the Broadcast messages lists.     We know that this is 8.   Another way to get the number of items in a list will be to use the length of block in the Variables section: 
+b) We need to create loop that repeats for the number of items in one of the Broadcast messages lists.     We know that this is 8.   Another way to get the number of items in a list will be to use the length of block in the Variables section: 
  
-c)	We have created the lists to be all the same length so it doesn’t matter which one we use. The repeat loop should look like this:
+c) We have created the lists to be all the same length so it doesn’t matter which one we use. The repeat loop should look like this:
  
-d)	We need a way to reference the items in the lists.  We’ll do this using a variable.
+d) We need a way to reference the items in the lists.  We’ll do this using a variable.
 •	Create a new variable called count.   It only needs to be available to this sprite
 •	Initialise it to zero outside the repeat loop and increment it by 1 inside the loop
  
