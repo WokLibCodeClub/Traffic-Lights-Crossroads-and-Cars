@@ -24,18 +24,30 @@ Using the **Show** block in the **Looks** section add the code to show the **Sta
 We’ll put all the code for running the sequence into a Block. We will only call the Block once, so it isn’t entirely necessary, but it does clearly show what this part of the code is doing.
 
 a) Create new Block called **Run Sequence**
- 	 
 
- 
- 
-b) We need to create loop that repeats for the number of items in one of the Broadcast messages lists.     We know that this is 8.   Another way to get the number of items in a list will be to use the length of block in the Variables section: 
- 
-c) We have created the lists to be all the same length so it doesn’t matter which one we use. The repeat loop should look like this:
- 
+![My blocks](Prog01.png "Prog01")&nbsp;&nbsp;
+![make a block](Prog02.png "Prog02")
+
+![make block](Prog03.png "Prog03")
+
+![define block](Prog04.png "Prog04")
+
+b) We need to create loop that repeats for the number of items in one of the **Broadcast messages** lists.     We know that this is 8.   Another way to get the number of items in a list will be to use the **length** of block in the **Variables** section:
+
+![list length](Prog05.png "Prog05")
+
+c) We have created the lists to be all the same length so it doesn’t matter which one we use. The **repeat** loop should look like this:
+
+![repeat block](Prog06.png "Prog06")
+
 d) We need a way to reference the items in the lists.  We’ll do this using a variable.
-•	Create a new variable called count.   It only needs to be available to this sprite
-•	Initialise it to zero outside the repeat loop and increment it by 1 inside the loop
- 
+
+• Create a new variable called **count**. It only needs to be available to this sprite
+
+• Initialise it to zero outside the repeat loop and increment it by 1 inside the loop
+
+![repeat block](Prog07.png "Prog07")
+
 e)	Also included in the Variables blocks is a block to obtain the data from a specific row of a List.   The following will obtain the **1st** item of the **Lights X - Broadcast messages** list, i.e “x lights-red”
  
 and this will obtain the 6th item of the Lights - **Duration** list, i.e “2”
