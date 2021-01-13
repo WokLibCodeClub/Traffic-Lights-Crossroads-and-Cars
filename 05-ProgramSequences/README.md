@@ -80,6 +80,15 @@ f) Based on the information above, now add three blocks of code underneath the c
 
 g) The above steps will run through the traffic light sequence once.   To make it repeat the sequence continuously add a **forever** block from the **Control** section. All the code under the **define** block needs to be enclosed inside the **forever** loop.
 
+## Action when clicking the Start Button
+
+a) Use the event **when this sprite is clicked** and add the code to hide the **Start Button**
+
+b) Next, add the call to the **Run Sequence** block
+
+![hide start button](Prog14.png "Prog14")&nbsp;&nbsp;
+![hide start button](Prog16.png "Prog16")
+
 ### Check your code
 
 <details><summary>Click arrow to check your work by taking a look at a screen shot showing all the code for the Start Button sprite.</summary>
@@ -89,11 +98,3 @@ g) The above steps will run through the traffic light sequence once.   To make i
 </details>
 
 <br></br>
-
-
-
-Action when clicking the Start  Button
-a)	Use the event when this sprite is clicked and add the code to hide the Start Button 
-b)	Next, add the call to the Run Sequence block
- 
-c)	When you’ve finished check your work by taking a look at page 15 for a screen shot showing all the code for the Start Button sprite. 
