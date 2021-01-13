@@ -58,4 +58,6 @@ The possible values for the variables correspond to the names of the costumes. T
 * amber
 * off
 
-The following steps show how to create the code needed to generate the correct settings for Lights X State and Lights Y State, which will in turn cause the traffic to be controlled.
+The following steps show how to create the code needed to generate the correct settings for variables 'Lights X State' and 'Lights Y State', which will in turn cause the traffic to be controlled.
+
+[Create Code for 'Lights X State' variable](../LightsXState/README.md)
