@@ -15,8 +15,11 @@ d) The code sections may be sitting on top of each other.  To sort them out, rig
 ![clean up code](LightsY02.png "LightsY02")
 
 e) Edit the code sections to:
+
 • respond to new messages specific for the **Lights Y** sprite
+
 • refer to the costumes for the **Lights Y** sprite
+
 • set the **Lights Y State** variable
 
 ![message table](LightsY03.png "LightsY03")
