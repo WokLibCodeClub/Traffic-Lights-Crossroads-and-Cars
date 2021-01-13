@@ -16,7 +16,7 @@ We will set up these sequences using 3 Scratch Lists:
 
 a) Using the **Make a List** option in the **Variables** section to create a new list called **Lights X - Broadcast messages**.  We want other sprites to able to read this list so make sure you choose the **For all sprites** option.
 
-![make a list](Sequences02.png "Sequences02")
+![make a list](Sequences02.png "Sequences02")&nbsp;&nbsp;
 ![new list](Sequences03.png "Sequences03")
 
 b) You should see an empty list in the Stage area.  The list can be made wider by using the mouse to drag the bottom right corner of the list down and to the right.
