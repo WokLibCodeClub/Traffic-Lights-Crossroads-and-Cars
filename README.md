@@ -4,5 +4,6 @@ In this SCRATCH project you will program a set of traffic lights that will contr
 
 You can find details of that project, including links to Youtube videos of the sessions, at this link:
 
-[Traffic Lights for Scratch](../../../OnlineCodeclub/blob/master/traffic_lights.md)
+    [Traffic Lights for Scratch](../../../OnlineCodeclub/blob/master/traffic_lights.md)
 
+This project has a Starter project - [https://scratch.mit.edu/projects/455279461/](https://scratch.mit.edu/projects/455279461/)
