@@ -58,20 +58,40 @@ and this block will obtain the **6th** item of the Lights - **Duration** list, i
 
 In place of actual numbers we need to use the **count** variable, so the above blocks will look like this
 
-![item count Lights X](Prog10.png "Prog10")
+![item **count** Lights X](Prog10.png "Prog10")
 
-![item count Duration](Prog11.png "Prog11")
+![item **count** Duration](Prog11.png "Prog11")
 
-This will broadcast a message for the text contained in item count of the **Lights X - Broadcast messages** list
- 
-and this will wait for the number of seconds contained in item count of the Lights - **Duration** list
- 
-f)	Based on the information above, now add three blocks of code underneath the change count block, but inside the repeat loop.   These blocks should
-•	Broadcast a message for item count from the **Lights X - Broadcast messages** list
-•	Broadcast a message for item count from the **Lights Y - Broadcast messages** list
-•	Wait for item count from the Lights - **Duration** list
-g)	The above steps will run through the traffic light sequence once.   To make it repeat the sequence continuously add a forever block from the Control section.   All the code under the define block needs to be enclosed inside the forever loop. 
-h)	When you’ve finished check your work by taking a look at page 15 for a screen shot showing all the code for the Start Button sprite. 
+This will **broadcast** a message for the text contained in item **count** of the **Lights X - Broadcast messages** list
+
+![broadcast item **count** Lights X](Prog12.png "Prog12")
+
+and this will **wait** for the number of seconds contained in item **count** of the **Lights - Duration** list
+
+![broadcast item **count** Duration](Prog13.png "Prog13")
+
+f) Based on the information above, now add three blocks of code underneath the change **count** block, but inside the repeat loop. These blocks should
+
+• Broadcast a message for item **count** from the **Lights X - Broadcast messages** list
+
+• Broadcast a message for item **count** from the **Lights Y - Broadcast messages** list
+
+• Wait for item **count** from the **Lights - Duration** list
+
+g) The above steps will run through the traffic light sequence once.   To make it repeat the sequence continuously add a **forever** block from the **Control** section. All the code under the **define** block needs to be enclosed inside the **forever** loop.
+
+### Check your code
+
+<details><summary>Click arrow to check your work by taking a look at a screen shot showing all the code for the Start Button sprite.</summary>
+
+![Start sprite code](Prog15.png "Prog15")
+
+</details>
+
+<br></br>
+
+
+
 Action when clicking the Start  Button
 a)	Use the event when this sprite is clicked and add the code to hide the Start Button 
 b)	Next, add the call to the Run Sequence block
