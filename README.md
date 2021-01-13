@@ -6,4 +6,4 @@ You can find details of that project, including links to Youtube videos of the s
 
 * [Traffic Lights for Scratch](../../../OnlineCodeclub/blob/master/traffic_lights.md)
 
-Now go to the instructions for the [Starter Project](Starter_project/README.md).
+Now go to the instructions for the [Starter Project](01-Starter_project/README.md).
