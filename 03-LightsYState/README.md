@@ -26,9 +26,9 @@ e) Edit the code sections to:
 
 f) You can test your code by clicking on each of the 5 code sections in turn.  You should see the lights change to the relevant colour.   If you show the **Lights Y State** variable on the stage by ticking the box next to the variable you should also see the text change as well.
 
-<details><summary>Click here to see the complete code for the **Lights Y** sprite</summary>
+<details><summary>Click here to see the complete code for the <b>Lights Y</b> sprite</summary>
 
-![Lights X code](LightsY04.png "LightsY04")
+![Lights Y code](LightsY04.png "LightsY04")
 
 </details>
 
