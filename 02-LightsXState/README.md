@@ -34,7 +34,7 @@ e) You can test your code by clicking on each of the 5 code sections in turn. Yo
 
 </details>
 
-<br></br>
+<br>
 
 Now we have to write similar code for the **Lights Y** sprite:
 
