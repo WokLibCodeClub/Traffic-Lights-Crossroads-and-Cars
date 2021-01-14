@@ -26,7 +26,8 @@ d) Repeat the step above to create similar broadcast message blocks for the othe
 
 e) You can test your code by clicking on each of the 5 code sections in turn. You should see the lights change to the relevant colour. If you show the Lights X State variable on the stage by ticking the box next to the variable you should also see the text change as well.
 
-![display variable](LightsX08.png "LightsX08")
+![display variable](LightsX08.png)&nbsp;&nbsp;
+![display variable](LightsX09.png)
 
 <details><summary>Click the arrow to see the complete code for the <b>Lights X</b> sprite</summary>
 
