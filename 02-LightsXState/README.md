@@ -10,7 +10,7 @@ b) Using blocks in the **Looks** & **Variables** sections set the initial costum
 
 c) Use a broadcast message to set the costume and **Lights X State** variable to ‘red’
 
-* Using the **when I receive** block in the Events section create a new message called ‘Lights X-red’:
+* Using the **when I receive** block in the Events section create a new message called ‘x lights-red’:
 
 ![broadcast 1](LightsX03.png "LightsX03")
 
