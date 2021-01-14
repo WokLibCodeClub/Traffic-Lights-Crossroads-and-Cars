@@ -42,6 +42,7 @@ The code for the movement of the cars relies on the values of variables that are
 * Lights Y State variable showing the current state of the lights for the cars moving in the vertical direction.
 
 The possible values for the variables correspond to the names of the costumes. They are:
+
 * red
 * red&amber
 * green
