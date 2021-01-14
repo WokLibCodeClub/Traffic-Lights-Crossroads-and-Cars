@@ -18,4 +18,12 @@ The task of this project is to add code to the traffic lights in order that the 
 
 ![controlled traffic](01-Starter_project/starter02.png "starter02")
 
+## Download your copy of these instructions
+
+If you would like to download your own copy of these instructions in a pdf document click the link below, and then click the Download button in the new window that opens:
+
+[Traffic_Lights_Crossroads_and_Cars.pdf](Traffic_Lights_Crossroads_and_Cars.pdf)
+
+## Let's get started
+
 Now go to the instructions for the [Starter Project](01-Starter_project/README.md).
