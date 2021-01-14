@@ -92,12 +92,12 @@ b) Next, add the call to the **Run Sequence** block
 
 ### Check your code
 
-<details><summary>Click arrow to check your work by taking a look at a screen shot showing all the code for the Start Button sprite.</summary>
+<details><summary>Click the arrow to check your work by taking a look at a screen shot showing all the code for the Start Button sprite.</summary>
 
 ![Start sprite code](Prog15.png "Prog15")
 
 </details>
-<br></br>
+<br>
 
 ## The program is complete – run the code
 
