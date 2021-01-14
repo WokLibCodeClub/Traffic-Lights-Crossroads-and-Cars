@@ -24,7 +24,7 @@ b) You should see an empty list in the Stage area.  The list can be made wider b
 ![narrow list](Sequences04.png "Sequences04")&nbsp;&nbsp;
 ![wide list](Sequences05.png "Sequences05")
 
-c) Add the name of the first broadcast message corresponding to red light on the Lights X sprite. (We created the broadcast messages on page 3.) To do this click on the little + in the bottom left of the list, then type the name of the first broadcast message into the box. 
+c) Add the name of the first broadcast message corresponding to red light on the Lights X sprite. (We created the broadcast messages in step 1 - The Starter Project.) To do this click on the little + in the bottom left of the list, then type the name of the first broadcast message into the box. 
 
 ![empty list](Sequences06.png "Sequences06")&nbsp;&nbsp;
 ![item added to list](Sequences07.png "Sequences07")
