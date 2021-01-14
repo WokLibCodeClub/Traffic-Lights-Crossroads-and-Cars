@@ -41,12 +41,12 @@ Repeat the above steps to create a list for the other set of lights, **Lights Y 
 
 Using similar methods now create a **Lights - Duration** list using the values in the **Duration** column in the chart above.
 
-<details><summary>Click here to see all the populated lists</summary>
+<details><summary>Click the arrow to see what all the populated lists should look like</summary>
 
 ![Populated lists](Sequences09.png "Sequences09")
 
 </details>
 
-<br></br>
+<br>
 
 Next we have to [Program the Light sequences](../05-ProgramSequences/README.md)
