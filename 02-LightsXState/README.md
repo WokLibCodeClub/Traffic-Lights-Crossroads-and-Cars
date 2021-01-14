@@ -4,7 +4,7 @@ a) Select the **Lights X** sprite
 
 ![select Lights X sprite](LightsX01.png "LightsX01")
 
-b) Using blocks in the **Looks & Variables** sections set the initial costume and **Lights X State** variable to ‘off’ when the Green flag is clicked
+b) Using blocks in the **Looks** & **Variables** sections set the initial costume and **Lights X State** variable to ‘off’ when the Green flag is clicked
 
 ![green flag switch](LightsX02.png "LightsX02")
 
